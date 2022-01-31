@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4EoJwoGpLvVCDaNQ4qmONPRCT6tzUoROfM5CLfxqQONm/fP643j8l6eSEXpfrzpe326eGJwbooGA2R7417npOQ==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\C#\\embedded system\\embedded system.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marius\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.8\\microsoft.netcore.app.host.win-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
